@@ -1,0 +1,74 @@
+.header {
+    width: 100%;
+    height: 175px;
+    background-image: url("../img/images.jpg");
+    background-size: cover;
+    text-align: center;
+}
+.foto{
+    width: 100px;
+    border-radius: 50px;
+    margin-top: 20px;
+}
+
+body{
+    background-color: #2d2d2d;
+}
+.container {
+    width: 70%;
+    margin: auto;
+}
+.judul{
+    color: #fff;
+    font-weight: bold;
+}
+
+.nav{
+    background-color: orange;
+    display: inline-block;
+    width: 100%;
+}
+
+.nav ul li {
+    list-style: none;
+    display: inline-block;
+}
+
+.nav ul li a{
+    background-color: plum;
+    color: #2d2d2d;
+    padding: 5px;
+    text-decoration: none;
+}
+
+.nav ul li a:hover{
+    background-color: mediumorchid;
+}
+
+.main {
+    background-color: #ffffff;
+    padding: 10px;
+}
+
+.footer {
+    background-color: orange;
+    text-align: center;
+    padding: 5px;
+}
+
+.gambar1 {
+    width: 100;
+}
+.gambar2 {
+    width: 100;
+}
+.gambar3 {
+    width: 100;
+}
+
+.about{
+    width: 75px;
+    border: 2px solid grey;
+
+
+}
